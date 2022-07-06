@@ -16,7 +16,7 @@ header, section{
     flex-wrap: wrap;
 }
 header, section, footer{
-    background-image: linear-gradient(to right , #fff, #1b766b);
+    background-image: linear-gradient(to right , #fff, #dfdfdf);
 }
 aside{
     display: inline-block;
